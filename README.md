@@ -1,3 +1,3 @@
 This is a digital reincarnation of the simon memory game. 
-The rules remain the same: Press letter 'A' on your keyboard, then try to recreate the blinking patterns of the various colored buttons in their respective order. If you mess this pattern up, you lose. Else, your score will continously increase in terms of levels. 
+The rules remain the same: Press letter 'A' on your keyboard, then try to recreate the blinking and sound patterns of the various colored buttons in their respective order. If you mess this pattern up, you lose. Else, your score will be incremented in terms of levels i.e., you will proceed to the next level every time you accurately recreate the sound and blinking patterns of the four green, red, yellow, and blue buttons. 
 Have fun!
